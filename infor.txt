@@ -1,0 +1,7 @@
+this is a file with information you should know
+
+use the following command:
+
+git stash save "message goes here"
+
+this line of text was like a total accident
